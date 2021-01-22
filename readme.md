@@ -1,1 +1,1 @@
-# GUI baised web scraper
+# Weather API and GUI via tkinter
