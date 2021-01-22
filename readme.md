@@ -1,1 +1,1 @@
-# GUI baised web scraper to do something
+# GUI baised web scraper
